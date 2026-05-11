@@ -280,16 +280,6 @@ npm test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 👥 Team Members & Roles  
-
-| Name        | Role                          | Responsibilities |
-|-------------|-------------------------------|------------------|
-| 🏀 **Rudra**  | 🎯 Frontend Developer          | Builds UI with React & Tailwind CSS, ensures responsive layouts, optimizes performance for a smooth booking experience. |
-| 🎨 **Dax**    | 🖌️ UI/UX & Frontend Developer  | Designs intuitive user experiences, creates wireframes & prototypes, styles and animates the interface for engagement. |
-| 💻 **Tirth**  | ⚙️ Backend Developer & Project Coordinator | Develops REST APIs with Node.js/Express, manages server-side logic, and integrates frontend with backend services. |
-| 🗄️ **Hemang** | 📊 Backend & Database Engineer | Designs MongoDB schema, writes efficient queries, ensures data security, and maintains database performance. |
-
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
